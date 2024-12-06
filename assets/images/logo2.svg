@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121 77" width="121" height="77">
+	<title>logo2-svg</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #000000 } 
+		.s1 { fill: #f96a15 } 
+		.t2 { font-size: 24px;fill: #f96a15;font-weight: 400;font-family: "Contra", "Contra" } 
+	</style>
+	<path class="s0" d=""/>
+	<g>
+		<path class="s1" d="m0 37.5l14.2 7.8v-14.1zm6.3-23.4l7.9 14.1 7.9-11zm20.5-14l-1.6 15.6 12.6-4.7zm15.8 9.4l14.2 6.2v-15.6zm-30 39l-6.3 14.1 15.8-3.1zm12.6 12.5l1.6 15.6 11-10.9zm17.4 4.6l12.6 11 1.6-17.2z"/>
+	</g>
+	<g>
+		<path class="s1" d="m40.3 59.7c-11.8-0.1-21.4-9.7-21.3-21.6 0.1-11.8 9.8-21.4 21.6-21.3 6.4 0 12.4 2.9 16.4 7.8v-3.4c-9.4-9.2-24.5-9-33.6 0.5-9.2 9.4-9 24.5 0.5 33.6 9.2 9 23.9 9 33.1 0v-3.4c-4.1 5-10.2 7.8-16.7 7.8z"/>
+	</g>
+	<text id="Future 7" style="transform: matrix(1,0,0,1,31,46)" >
+		<tspan x="0" y="0" class="t2">Future 7</tspan><tspan  y="0" class="t2">
+</tspan>
+	</text>
+</svg>
