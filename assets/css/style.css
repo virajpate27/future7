@@ -3142,11 +3142,18 @@ form.d_block {
     transition-delay: 0ms;
 }
 
+
+
 .qra{
     width: 350px;
     box-shadow: 5px 5px 5px #aaaaaa40;
     border-radius: 10px;
 }
+
+.as_footer_wrapper .qra{
+    width: 230px;
+}
+
 
 .imgw{
     width: 800px;
@@ -4002,7 +4009,9 @@ margin: 5px 0 -12px 0;
     text-align: center;
 }
 
-
+.as_footer_wrapper .qra{
+    margin-top: 30px;
+}
 
 }
 
@@ -4017,12 +4026,20 @@ margin: 5px 0 -12px 0;
 }
 
 .mr-left{
-    margin-left: 40%;
+    margin-left: 20%;
 }
  
 
  .mr-right{
-    margin-left: 40%;
+    margin-left: 20%;
+}
+
+.banner3{
+    background-image: url(../images/banner3.webp);
+}
+
+.ser .as_service_box:after{
+display: none;
 }
 
 @media(max-width: 768px){
