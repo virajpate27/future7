@@ -1791,6 +1791,10 @@ section.as_pricing_plan .row {
     z-index: 1; 
     color: #ffffff;
 }
+
+.bgr{
+    background-image: url(../images/banner-n2.webp);
+}
 .as_breadcrum_wrapper .container {
     z-index: 2;
     position: relative;
@@ -3160,6 +3164,36 @@ width: 40%;
 .rights{
     width: 60%;
 }
+
+
+.star-rating {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+
+}
+.star-rating input[type="radio"] {
+    display: none;
+}
+.star-rating label {
+    font-size: 2rem;
+    color: #ccc;
+    cursor: pointer;
+    padding: 0 5px;
+}
+.star-rating input:checked ~ label,
+.star-rating label:hover,
+.star-rating label:hover ~ label {
+    color: #f5c518;
+}
+
+.mb15{
+    margin-bottom: 15px;
+}
+
+
+
+
 
 /* Responsive css */
 @media (min-width: 1200px){
